@@ -1,0 +1,16 @@
+{
+  "name": "jayu-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "body-parser": "^1.19.0",
+    "@sendgrid/mail": "^7.4.0",
+    "dotenv": "^8.2.0",
+    "googleapis": "^39.2.0"
+  }
+}
